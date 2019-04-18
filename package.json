@@ -1,6 +1,6 @@
 {
   "name": "@kanhaiyalalsingh/protractor-lambdatest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "built/index.js",
   "description": "LambdaTest Protractor is an Extention of Protrator",
   "scripts": {
