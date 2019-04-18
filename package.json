@@ -7,7 +7,6 @@
     "compile_to_es5": "gulp compile_to_es5",
     "format": "gulp format",
     "install_testapp": "cd testapp && npm install",
-    "prepublish": "gulp prepublish",
     "pretest": "gulp pretest",
     "start": "cd testapp && npm start",
     "test": "node scripts/test.js",
@@ -18,7 +17,10 @@
     "webdriver-manager": "bin/webdriver-manager"
   },
   "typings": "built/index.d.ts",
-  "repository": "kanhaiya15/lambda-protrator",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanhaiya15/lambda-protrator.git"
+  },
   "author": "Kanhaiya Lal Singh",
   "license": "ISC",
   "keywords": [
