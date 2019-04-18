@@ -1,8 +1,8 @@
 {
-  "name": "@kanhaiyalalsingh/lambda-protrator",
+  "name": "@kanhaiyalalsingh/protractor-lambdatest",
   "version": "1.0.0",
   "main": "built/index.js",
-  "description": "Lambda Protractor is an Extention of Protrator",
+  "description": "LambdaTest Protractor is an Extention of Protrator",
   "scripts": {
     "compile_to_es5": "gulp compile_to_es5",
     "format": "gulp format",
@@ -19,7 +19,7 @@
   "typings": "built/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kanhaiya15/lambda-protrator.git"
+    "url": "git+https://github.com/kanhaiya15/protractor-lambdatest.git"
   },
   "author": "Kanhaiya Lal Singh",
   "license": "ISC",
@@ -29,9 +29,9 @@
     "testing"
   ],
   "bugs": {
-    "url": "https://github.com/kanhaiya15/lambda-protrator/issues"
+    "url": "https://github.com/kanhaiya15/protractor-lambdatest/issues"
   },
-  "homepage": "https://github.com/kanhaiya15/lambda-protrator#readme",
+  "homepage": "https://github.com/kanhaiya15/protractor-lambdatest#readme",
   "dependencies": {
     "@kanhaiyalalsingh/lambdatest": "^1.0.6",
     "@types/q": "^0.0.32",
